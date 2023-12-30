@@ -1,0 +1,30 @@
+MC|What is the capital of France?|Berlin|Paris|Madrid|1
+MC|Which planet is known as the Red Planet?|Mars|Jupiter|Saturn|0
+MC|What is the largest mammal in the world?|Elephant|Blue Whale|Giraffe|1
+MC|Who wrote "Romeo and Juliet"?|Charles Dickens|William Shakespeare|Jane Austen|1
+MC|What is the chemical symbol for water?|CO2|H2O|O2|1
+MC|Who painted the Mona Lisa?|Vincent Van Gogh|Pablo Picasso|Leonardo da Vinci|2
+MC|What is the hardest natural substance on Earth?|Diamond|Gold|Iron|0
+MC|Which country is known as the Land of the Rising Sun?|China|South Korea|Japan|2
+MC|Who is known for the theory of relativity?|Isaac Newton|Albert Einstein|Nikola Tesla|1
+MC|What is the largest planet in our solar system?|Earth|Mars|Jupiter|2
+MC|Who was the first person to walk on the moon?|Neil Armstrong|Buzz Aldrin|Yuri Gagarin|0
+MC|What is the capital city of Australia?|Sydney|Canberra|Melbourne|1
+MC|What is the longest river in the world?|Nile|Amazon|Yangtze|1
+MC|How many continents are there on Earth?|5|6|7|2
+MC|What is the main ingredient in sushi?|Rice|Noodles|Bread|0
+MC|Which ocean is the largest?|Atlantic|Pacific|Indian|1
+MC|What is the smallest country in the world?|Monaco|Vatican City|Nauru|1
+MC|Who is the author of "Harry Potter"?|J.K. Rowling|Roald Dahl|Stephen King|0
+MC|What gas do plants absorb from the atmosphere?|Oxygen|Carbon Dioxide|Nitrogen|1
+MC|Which animal is known as the King of the Jungle?|Tiger|Lion|Elephant|1
+TF|Is the Sun a star?|true
+TF|Do humans have more than two eyes?|false
+TF|Is the chemical symbol for gold Au?|true
+TF|Can ostriches fly?|false
+TF|Is Mount Everest the highest mountain in the world?|true
+TF|Does a triangle have four sides?|false
+TF|Is watermelon a vegetable?|false
+TF|Is the capital of Japan Seoul?|false
+TF|Does a full moon occur every week?|false
+TF|Is the Python a programming language?|true
