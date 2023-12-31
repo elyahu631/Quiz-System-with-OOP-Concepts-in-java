@@ -13,7 +13,7 @@ public class QuizSystem {
     private static final Scanner scanner = new Scanner(System.in);
 
     /**
-     * globalScores map stores the scores of all the quiz takers. The key is
+     * Stores the scores of all the quiz takers. The key is
      * the name of the quiz taker, and the value is the score.
      */
     private static final Map<String, Integer> globalScores = new HashMap<>();
