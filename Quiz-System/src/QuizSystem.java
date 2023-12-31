@@ -58,6 +58,7 @@ public class QuizSystem {
         QuizTaker quizTaker = new QuizTaker(name, scanner);
         System.out.print("Enter the number of questions for the quiz: ");
         int numQuestions = scanner.nextInt();
+        System.out.print("\n ### "+ name + " WELCOME To Quiz Master ###\n ----------------------------------- \n");
         IQuiz quiz = new Quiz(generateRandomQuiz(numQuestions));
         int score = quizTaker.takeQuiz(quiz);
         globalScores.put(quizTaker.getName(), score);
